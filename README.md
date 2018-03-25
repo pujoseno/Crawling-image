@@ -13,6 +13,6 @@ in your browser(google chrome)>more tools>developer tools
 you can copy 1 by 1 code to console
 
 # 4. Download Images with Python
+python download_images.py --urls urls.txt --output images/
 
-
-you can follow my blog for complete explanation. 
+you can follow my blog for complete explanation http://thinkstudioo.blogspot.co.id/2018/03/crawling-images-in-google-images.html
