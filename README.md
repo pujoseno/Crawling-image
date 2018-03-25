@@ -11,6 +11,7 @@ in your browser(google chrome)>more tools>developer tools
 
 # 3. Pull down Jquery into Console
 you can copy 1 by 1 code to console
+![alt text](https://github.com/pujoseno/Crawling-image/blob/master/15.PNG)
 
 # 4. Download Images with Python
 python download_images.py --urls urls.txt --output images/
